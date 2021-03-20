@@ -41,8 +41,6 @@ ____
 
 2. git bash를 찾아 실행
 
-   ![git bash](C:\Users\power\Desktop\1.png)
-
 3. ```shell
    $ git --version
    ```
